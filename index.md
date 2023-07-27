@@ -46,3 +46,11 @@ We'll look at how to abstract over computation: how can we organize code for alg
 #### Session 2 (8:00 - 11:00 AM PST)
 
 We'll look at how to abstract over data: how do we structure the data our code works with?
+
+  - Classes and Interfaces
+  - Dataclasses
+  - Immutability
+  - Type Annotations
+  - Example: Implementing a Markov Chain class
+  - Example: Modeling/Simulating Stock Price Movements
+
