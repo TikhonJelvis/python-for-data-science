@@ -24,6 +24,10 @@ No software installations or configurations will be required as the entire works
 
 [tikhon]: https://www.linkedin.com/in/tikhon-jelvis
 
+![Tianyu](/assets/img/tianyu-profile.jpg){:style="max-width:30%;"}
+
+Tianyu is a Ph.D. student in the Institute for Computational and Mathematical Engineering (ICME) at Stanford University working with Prof. Susan Athey and Prof. Daniel McFarland. After receiving his Bachelor's degree in economics and mathematics at University of Toronto, Tianyu received his master's degree in Management Science and Engineering (MS&E) at Stanford. His research has focused on the application of machine learning methods on social sciences such as career trajectories of workers.
+
 # Workshop Materials
 
 ## Schedule
