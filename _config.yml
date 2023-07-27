@@ -1,6 +1,6 @@
 title: Python for Data Science
 logo: /assets/img/logo.gif
 description: July 31–August 1, 2023
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
