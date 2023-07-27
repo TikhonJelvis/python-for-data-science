@@ -12,7 +12,7 @@ No software installations or configurations will be required as the entire works
 
 ## About the Instructors
 
-![Ashwin Rao](/assets/img/ashwin-profile.jpg){:style="max-width:30%;"}
+![Ashwin Rao](/assets/img/ashwin-profile.png){:style="max-width:30%;"}
 
 [Ashwin Rao][ashwin] is the Co-Founder of CX Score, a seed-stage AI startup that builds products enabling enterprises to provide great customer experience on their web and mobile apps. Ashwin is also an Adjunct Professor at Stanford University, focusing his research and teaching in the area of Stochastic Control, particularly Reinforcement Learning (RL) algorithms with applications in Finance and Retail. He teaches Stanford CME 241, which is based on the RL for Finance book he wrote with Tikhon Jelvis. Previously, Ashwin led Data Science and Machine Learning at Target, where he and his team developed mathematical models and algorithms for supply-chain and logistics, merchandising, marketing, search, personalization, pricing and customer service. Before that, Ashwin was a Managing Director at Morgan Stanley and a Trading Strategist at Goldman Sachs. Ashwin holds a Bachelors degree in Computer Science and Engineering from IIT-Bombay and a Ph.D in Computer Science from University of Southern California, where he specialized in Algorithms Theory and Abstract Algebra.
 
