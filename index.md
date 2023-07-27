@@ -30,6 +30,10 @@ Tianyu is a Ph.D. student in the Institute for Computational and Mathematical En
 
 # Workshop Materials
 
+Announcements, exercises and discussions will be [on Piazza][piazza].
+
+[piazza]: https://piazza.com/class/lkhbkurr85a3v7
+
 ## Schedule
 
 #### Session 1 (8:00 - 11:00 AM PST)
