@@ -3,67 +3,42 @@ layout: default
 ---
 
 # Workshop Description
-TODO(instructor): fill in this section with a description of your workshop.
 
-This course covers the following aspects
-  * Topic 1, and
-  * Topic 2, ...
-  
-It may be helpful to know that you can *italicize* text with single-asterisks
-(or alternatively, using _underscores_),
-and that you can **bold** text using double-asterisks.
+In this 6-hour workshop, you will learn how to leverage modern Python features and techniques to enhance your data science code. Python has emerged as the go-to language for data science and analysis, and its evolution has introduced powerful capabilities such as abstract classes, generic programming, and generators. While data scientists are proficient in using Python, they can significantly boost their productivity and programming skills by embracing these modern language features.
 
-If you want to insert a link, use `[` in order to delimit the text that you wish
-to appear in the web-UI, and after closing the text with `]`insert the URL in a
-set of `()`, e.g. [here is a link to ICME's
-website](https://icme.stanford.edu/).
+The workshop will provide hands-on instruction, utilizing Google Colab workbooks that come preloaded with the necessary libraries, eliminating the need for software installations or configurations. You will explore real-world examples of applying modern Python features to data science tasks and engage in problem-solving exercises during the session. Some of the key Python features covered include classes and inheritance, dataclasses and immutability, abstract classes and interfaces, type hints and static typing, generic programming, first-class functions and lambdas, as well as iterators and generators. Join us to unlock the full potential of Python for data science and elevate your coding proficiency. 
 
-## About the Instructor
+No software installations or configurations will be required as the entire workshop will be done using Google Colab workbooks that will come with all required libraries loaded.
 
-TODO(instructor): create a profile photo in two steps.
+## About the Instructors
 
-  * Replace "instructor-name" in the image below with your name (note: this link
-is only visible in the raw-text file; on the web-page itself you'll simply see a
-sticky note with "To Do" written on it).
-  * Move the image you would like to appear on your website into the 
-    following folder contained in your website's working directory
-    ```
-    /assets/img/profile.jpg
-    ```
-![instructor-name](/assets/img/profile.jpg){:style="max-width:30%;"}
+![Ashwin Rao](/assets/img/ashwin-profile.jpg){:style="max-width:30%;"}
 
-TODO(instructor): insert a description about yourself here!
+[Ashwin Rao][ashwin] is the Co-Founder of CX Score, a seed-stage AI startup that builds products enabling enterprises to provide great customer experience on their web and mobile apps. Ashwin is also an Adjunct Professor at Stanford University, focusing his research and teaching in the area of Stochastic Control, particularly Reinforcement Learning (RL) algorithms with applications in Finance and Retail. He teaches Stanford CME 241, which is based on the RL for Finance book he wrote with Tikhon Jelvis. Previously, Ashwin led Data Science and Machine Learning at Target, where he and his team developed mathematical models and algorithms for supply-chain and logistics, merchandising, marketing, search, personalization, pricing and customer service. Before that, Ashwin was a Managing Director at Morgan Stanley and a Trading Strategist at Goldman Sachs. Ashwin holds a Bachelors degree in Computer Science and Engineering from IIT-Bombay and a Ph.D in Computer Science from University of Southern California, where he specialized in Algorithms Theory and Abstract Algebra.
+
+[ashwin]: https://www.linkedin.com/in/ashwin2rao
+
+![Tikhon Jelvis](/assets/img/tikhon-profile.png){:style="max-width:30%;"}
+
+[Tikhon Jelvis][tikhon] is a founding engineer at CX Score, a seed-stage startup that builds products enabling enterprises to provide great customer experience on their web and mobile apps. Tikhon specializes in bringing ideas from programming languages and functional programming to machine learning and data science. He has developed inventory optimization, simulation and demand forecasting systems as a Principal Scientist at Target. He is a speaker and open-source contributor in the Haskell community, where he is the chair of the Haskell.org committee. Tikhon has co-authored a book on the Foundations of Reinforcement Learning with Stanford faculty Ashwin Rao, where he developed a modern Python framework for data science and machine learning.
+
+[tikhon]: https://www.linkedin.com/in/tikhon-jelvis
 
 # Workshop Materials
 
-## Pre-workshop Checklist
-TODO(instructor): enumerate what students need to take care of before the
-workshop. E.g.
-
-1. Download the following tools: ...
-2. Familiarize with the schedule posted below.
-
 ## Schedule
-TODO(instructor): Make sure the dates and times are accurate below for your
-course. E.g. replace `?`'s with the hour (or time-of-day) 
-that your course starts. Adjust time schedules within each session.
 
-#### Session 1 (?:00 - ?: ?.M. PST)
-  - Topic 1 with example time-allocation.
-  - Topic 2 with example time-allocation, etc.
-  - 15 minute Q&A
+#### Session 1 (8:00 - 11:00 AM PST)
+
+We'll look at how to abstract over computation: how can we organize code for algorithms?
+
+  - Intro
+  - Iterative Algorithms
+  - Iterators
+  - Generators
+  - Iterator Operations
+  - First-Class Functions
   
-#### Session 2 (?:00 - ?:00 ?.M. PST)
-  - Something similar as above.
+#### Session 2 (8:00 - 11:00 AM PST)
 
-## Additional Resources
-
-Here are some additional resources for various topics:
-
-TODO(instructor): fill in with pertinent resources.
-
-
-
-
-
-
+We'll look at how to abstract over data: how do we structure the data our code works with?
