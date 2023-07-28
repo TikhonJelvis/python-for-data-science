@@ -28,15 +28,15 @@ No software installations or configurations will be required as the entire works
 
 Tianyu Du is a PhD. student in the Institute for Computational and Mathematical Engineering (ICME) at Stanford University working with Prof. Susan Athey and Prof. Daniel McFarland. After receiving his Bachelor's degree in economics and mathematics at University of Toronto, Tianyu received his master's degree in Management Science and Engineering (MS&E) at Stanford. His research has focused on the application of machine learning methods on social sciences such as career trajectories of workers.
 
-![Julie Fangran Wang](/assets/img/julie-profile.jpg)
+![Julie Fangran Wang](/assets/img/julie-profile.jpg){:style="max-width:30%;"}
 
 Julie Fangran Wang is an MS student in the Institute for Computational and Mathematical Engineering (ICME) at Stanford University. She’s currently working with Prof. Julia Salzman on developing and applying a new generation of algorithms for genomics, based on performing direct inference on raw sequencing data.
 
-![Sven  Lerner](/assets/img/sven-profile.jpg)
+![Sven  Lerner](/assets/img/sven-profile.jpg){:style="max-width:30%;"}
 
 Sven Lerner is a 5th year PhD student in the Institute for Computational and Mathematical Engineering (ICME) at Stanford University. He is advised by Markus Pelger and is a member of the Advanced Financial Technologies Lab.
 
-![Rachel Guo](/assets/img/rachel-profile.jpg)
+![Rachel Guo](/assets/img/rachel-profile.jpg){:style="max-width:30%;"}
 
 Rachel Guo is a PhD student in the Institute for Computational and Mathematical Engineering (ICME) at Stanford University. She received her bachelor’s degree in Statistics and Computer Science from Harvard University. She works on causal inference and machine learning for social impact.
 
