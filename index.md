@@ -14,7 +14,7 @@ No software installations or configurations will be required as the entire works
 
 ![Ashwin Rao](/assets/img/ashwin-profile.png){:style="max-width:30%;"}
 
-[Ashwin Rao][ashwin] is the Co-Founder of CX Score, a seed-stage AI startup that builds products enabling enterprises to provide great customer experience on their web and mobile apps. Ashwin is also an Adjunct Professor at Stanford University, focusing his research and teaching in the area of Stochastic Control, particularly Reinforcement Learning (RL) algorithms with applications in Finance and Retail. He teaches Stanford CME 241, which is based on the RL for Finance book he wrote with Tikhon Jelvis. Previously, Ashwin led Data Science and Machine Learning at Target, where he and his team developed mathematical models and algorithms for supply-chain and logistics, merchandising, marketing, search, personalization, pricing and customer service. Before that, Ashwin was a Managing Director at Morgan Stanley and a Trading Strategist at Goldman Sachs. Ashwin holds a Bachelors degree in Computer Science and Engineering from IIT-Bombay and a Ph.D in Computer Science from University of Southern California, where he specialized in Algorithms Theory and Abstract Algebra.
+[Ashwin Rao][ashwin] is the Co-Founder of CX Score, a seed-stage AI startup that builds products enabling enterprises to provide great customer experience on their web and mobile apps. Ashwin is also an Adjunct Professor at Stanford University, focusing his research and teaching in the area of Stochastic Control, particularly Reinforcement Learning (RL) algorithms with applications in Finance and Retail. He teaches Stanford CME 241, which is based on the RL for Finance book he wrote with Tikhon Jelvis. Previously, Ashwin led Data Science and Machine Learning at Target, where he and his team developed mathematical models and algorithms for supply-chain and logistics, merchandising, marketing, search, personalization, pricing and customer service. Before that, Ashwin was a Managing Director at Morgan Stanley and a Trading Strategist at Goldman Sachs. Ashwin holds a Bachelors degree in Computer Science and Engineering from IIT-Bombay and a PhD in Computer Science from University of Southern California, where he specialized in Algorithms Theory and Abstract Algebra.
 
 [ashwin]: https://www.linkedin.com/in/ashwin2rao
 
@@ -24,9 +24,21 @@ No software installations or configurations will be required as the entire works
 
 [tikhon]: https://www.linkedin.com/in/tikhon-jelvis
 
-![Tianyu](/assets/img/tianyu-profile.jpg){:style="max-width:30%;"}
+![Tianyu Du](/assets/img/tianyu-profile.jpg){:style="max-width:30%;"}
 
-Tianyu is a Ph.D. student in the Institute for Computational and Mathematical Engineering (ICME) at Stanford University working with Prof. Susan Athey and Prof. Daniel McFarland. After receiving his Bachelor's degree in economics and mathematics at University of Toronto, Tianyu received his master's degree in Management Science and Engineering (MS&E) at Stanford. His research has focused on the application of machine learning methods on social sciences such as career trajectories of workers.
+Tianyu Du is a PhD. student in the Institute for Computational and Mathematical Engineering (ICME) at Stanford University working with Prof. Susan Athey and Prof. Daniel McFarland. After receiving his Bachelor's degree in economics and mathematics at University of Toronto, Tianyu received his master's degree in Management Science and Engineering (MS&E) at Stanford. His research has focused on the application of machine learning methods on social sciences such as career trajectories of workers.
+
+![Julie Fangran Wang](/assets/img/julie-profile.jpg)
+
+Julie Fangran Wang is an MS student in the Institute for Computational and Mathematical Engineering (ICME) at Stanford University. She’s currently working with Prof. Julia Salzman on developing and applying a new generation of algorithms for genomics, based on performing direct inference on raw sequencing data.
+
+![Sven  Lerner](/assets/img/sven-profile.jpg)
+
+Sven Lerner is a 5th year PhD student in the Institute for Computational and Mathematical Engineering (ICME) at Stanford University. He is advised by Markus Pelger and is a member of the Advanced Financial Technologies Lab.
+
+![Rachel Guo](/assets/img/rachel-profile.jpg)
+
+Rachel Guo is a PhD student in the Institute for Computational and Mathematical Engineering (ICME) at Stanford University. She received her bachelor’s degree in Statistics and Computer Science from Harvard University. She works on causal inference and machine learning for social impact.
 
 # Workshop Materials
 
@@ -36,7 +48,7 @@ Announcements, exercises and discussions will be [on Piazza][piazza].
 
 ## Schedule
 
-#### Session 1 (8:00 - 11:00 AM PST)
+#### Session 1 (8:00 - 11:00 AM PDT)
 
 We'll look at how to abstract over computation: how can we organize code for algorithms?
 
@@ -47,7 +59,7 @@ We'll look at how to abstract over computation: how can we organize code for alg
   - Iterator Operations
   - First-Class Functions
   
-#### Session 2 (8:00 - 11:00 AM PST)
+#### Session 2 (8:00 - 11:00 AM PDT)
 
 We'll look at how to abstract over data: how do we structure the data our code works with?
 
