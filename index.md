@@ -6,7 +6,7 @@ layout: default
 
 In this 6-hour workshop, you will learn how to leverage modern Python features and techniques to enhance your data science code. Python has emerged as the go-to language for data science and analysis, and its evolution has introduced powerful capabilities such as abstract classes, generic programming, and generators. While data scientists are proficient in using Python, they can significantly boost their productivity and programming skills by embracing these modern language features.
 
-The workshop will provide hands-on instruction, utilizing Google Colab workbooks that come preloaded with the necessary libraries, eliminating the need for software installations or configurations. You will explore real-world examples of applying modern Python features to data science tasks and engage in problem-solving exercises during the session. Some of the key Python features covered include classes and inheritance, dataclasses and immutability, abstract classes and interfaces, type hints and static typing, generic programming, first-class functions and lambdas, as well as iterators and generators. Join us to unlock the full potential of Python for data science and elevate your coding proficiency. 
+The workshop will provide hands-on instruction, utilizing Google Colab workbooks that come preloaded with the necessary libraries, eliminating the need for software installations or configurations. You will explore real-world examples of applying modern Python features to data science tasks and engage in problem-solving exercises during the session. Some of the key Python features covered include classes and inheritance, dataclasses and immutability, abstract classes and interfaces, type hints and static typing, generic programming, first-class functions and lambdas, as well as iterators and generators. Join us to unlock the full potential of Python for data science and elevate your coding proficiency.
 
 No software installations or configurations will be required as the entire workshop will be done using Google Colab workbooks that will come with all required libraries loaded.
 
@@ -46,6 +46,23 @@ Announcements, exercises and discussions will be [on Piazza][piazza].
 
 [piazza]: https://piazza.com/class/lkhbkurr85a3v7
 
+## Resources
+
+### Intro to Python
+
+Materials from last week's Intro to Python workshop:
+
+ - [slides][intro-slides]
+ - [Day 1 notebook][intro-day-1]
+ - [Day 2 notebook][intro-day-2]
+ - [homework][intro-homework]
+
+[intro-slides]: https://docs.google.com/presentation/d/1JoW5JSCjiXT5ojQk071oR9BKc0o2I75Z15KLnEC_qQA/edit?usp=sharing
+[intro-day-1]: https://colab.research.google.com/drive/1xZFJuKdKIGYlaCJjAqGJEXj8z_MEB0Nh
+[intro-day-2]: https://drive.google.com/file/d/1XNeaMtd9sink3JQVBVwKiF6dxUKXa1qI/view?usp=sharing
+[intro-homework]: https://colab.research.google.com/drive/11UmW99f56IOBMs65_-y1Lff4YJO0Nk6P
+
+
 ## Schedule
 
 #### Session 1 (8:00 - 11:00 AM PDT)
@@ -58,7 +75,7 @@ We'll look at how to abstract over computation: how can we organize code for alg
   - Generators
   - Iterator Operations
   - First-Class Functions
-  
+
 #### Session 2 (8:00 - 11:00 AM PDT)
 
 We'll look at how to abstract over data: how do we structure the data our code works with?
@@ -69,4 +86,3 @@ We'll look at how to abstract over data: how do we structure the data our code w
   - Type Annotations
   - Example: Implementing a Markov Chain class
   - Example: Modeling/Simulating Stock Price Movements
-
