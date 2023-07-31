@@ -54,6 +54,28 @@ The content for each day is in a Colab notebook:
  [day-1]: https://colab.research.google.com/drive/1lllE-6xj-3I1Q_i-2_QbY3aI5wtRcM1s?usp=sharing
  [day-2]: https://colab.research.google.com/drive/1I5kykRsM9MbKZ4rumiBKHNZ6iJ9vRWzN?usp=sharing
 
+## Resources
+
+### Intro to Python
+
+Materials from last week's Intro to Python workshop:
+
+ - [slides][intro-slides]
+ - [Day 1 notebook][intro-day-1]
+ - [Day 2 notebook][intro-day-2]
+ - [homework][intro-homework]
+
+[intro-slides]: https://docs.google.com/presentation/d/1JoW5JSCjiXT5ojQk071oR9BKc0o2I75Z15KLnEC_qQA/edit?usp=sharing
+[intro-day-1]: https://colab.research.google.com/drive/1xZFJuKdKIGYlaCJjAqGJEXj8z_MEB0Nh
+[intro-day-2]: https://drive.google.com/file/d/1XNeaMtd9sink3JQVBVwKiF6dxUKXa1qI/view?usp=sharing
+[intro-homework]: https://colab.research.google.com/drive/11UmW99f56IOBMs65_-y1Lff4YJO0Nk6P
+
+### Iterators
+
+[David Beazley's "Generator Tricks for Systems Programmers][dbeaz]
+
+[dbeaz]: https://www.dabeaz.com/generators/
+
 ## Schedule
 
 #### Session 1 (8:00 - 11:00 AM PDT)
