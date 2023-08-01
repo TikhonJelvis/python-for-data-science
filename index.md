@@ -49,9 +49,11 @@ Announcements, exercises and discussions will be [on Piazza][piazza].
 The content for each day is in a Colab notebook:
 
  * [Day 1: Abstracting over Computation][day-1]
+   * [with exercise solutions][day-1-solutions]
  * [Day 2: Abstracting over Data][day-2]
 
  [day-1]: https://colab.research.google.com/drive/1lllE-6xj-3I1Q_i-2_QbY3aI5wtRcM1s?usp=sharing
+ [day-1-solutions]: https://colab.research.google.com/drive/1kN6RX031p4ExcKPkaBxgk7qx30Ds_U50?usp=sharing
  [day-2]: https://colab.research.google.com/drive/1I5kykRsM9MbKZ4rumiBKHNZ6iJ9vRWzN?usp=sharing
 
 ## Resources
